@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Orion</h1>
 <h3 align="center">A detail oriented software engineer with a focus on organization and structure. Always hungry to learn new things, excited to create, and driven to solve problems.</h3>
 
-- 🔭 I’m currently working on [Quick-Shot, a D&D one-shot character generator](https://oneshotcharacter.netlify.app/)
+- 🔭 I’m currently working on [Last Minute Adventurer, a D&D one-shot character generator](https://oneshotcharacter.netlify.app/)
 
 - 🌱 I’m currently learning **VIM for VSCode**
 
