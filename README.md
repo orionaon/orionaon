@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://www.orionaon.com/](https://www.orionaon.com/)
 
-- 📝 I sometimes write articles on [https://dev.to/orionaon](https://dev.to/orionaon)
-
 - ⚡ Fun fact: **I know the identification and scientific name for hundreds of mushroom species**
 
 <h3 align="left">Connect with me:</h3>
